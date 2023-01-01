@@ -1,0 +1,18 @@
+.title{
+    background-color:#e6ffee;
+    border: 2px solid rgb(233, 161, 161);
+    color: black;
+    border-radius: 10px;
+}
+.title:hover{
+    background-color:#c0ffd4;
+    border: 2px solid rgb(233, 161, 161);
+    color: black;
+}
+#footer{
+    visibility: hidden;
+    padding: 15px;
+    background-color: rgb(235, 235, 235);
+    text-align: center;
+    color: black;
+}
